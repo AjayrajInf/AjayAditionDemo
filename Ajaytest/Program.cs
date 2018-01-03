@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ajaytest
 {
-    class Program
+    public class Program
     {
         /// <summary>
         /// 
@@ -31,7 +31,7 @@ namespace Ajaytest
         /// <param name="a"></param>
         /// <param name="b"></param>
         /// <returns></returns>
-        private int Addition(int a, int b)
+        public int Addition(int a, int b)
         {
             return a + b;
         }

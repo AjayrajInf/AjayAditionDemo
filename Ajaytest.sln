@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajaytest", "Ajaytest\Ajaytest.csproj", "{1FD20F6C-8D00-4D89-9043-2C90EA7978C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjayUnitTestDemo", "AjayUnitTestDemo\AjayUnitTestDemo.csproj", "{E2992EC7-0D8C-449F-B130-04EAA4AFFEBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1FD20F6C-8D00-4D89-9043-2C90EA7978C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD20F6C-8D00-4D89-9043-2C90EA7978C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD20F6C-8D00-4D89-9043-2C90EA7978C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2992EC7-0D8C-449F-B130-04EAA4AFFEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2992EC7-0D8C-449F-B130-04EAA4AFFEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2992EC7-0D8C-449F-B130-04EAA4AFFEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2992EC7-0D8C-449F-B130-04EAA4AFFEBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
