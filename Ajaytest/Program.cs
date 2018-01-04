@@ -19,7 +19,9 @@ namespace Ajaytest
 
             Program prog = new Program();
             Console.WriteLine("The Output for Addition is :" + prog.Addition(2, 7));
-            Console.ReadLine();//test
+            Console.WriteLine("The Output for Multiplication is :" + prog.Multiplication(2, 7));
+            Console.ReadLine();
+          
 
 
         }
@@ -35,6 +37,10 @@ namespace Ajaytest
         {
             return a + b;
         }
+        public int Multiplication(int a, int b)
+        {
+            return a * b;
+        } 
 
     }
 }
